@@ -35,7 +35,7 @@ KPDuBose [**@KPDuBose**](https://github.com/KPDuBose) I grew up in Logan, Utah, 
 
 [**@LindaAmoafo**](https://github.com/LindaAmoafo) Hi there, I'm Linda Amoafo and, I am excited to be learning all these new stuff. I grew up in Ghana and my background is in statistics. It was great figuring this out! <img src="fig/lindaamoafo.jpeg" width="40" height="40px">
 
-blessingofori-atta
+[**@blessingofori-atta**](https://github.com/blessingofori-atta) My name is Blessing and I'm from Ghana. I love hair braiding for my friends.  
 
 Quamena
 [**@Quamena**](https://github.com/Quamena) I am Eric, from Ghana. I am always ready to learn new things. I love to watch football games and comedy.
