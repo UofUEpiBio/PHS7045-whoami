@@ -25,7 +25,7 @@ username!
 
 # PHS7045 Advanced Programming Students (Fall 2026)
 
-- Guangyu Qiu
+- Guangyu Qiu: a student in our 2026 class
 
 - Mo Zhou
 
