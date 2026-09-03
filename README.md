@@ -25,12 +25,14 @@ username!
 
 # PHS7045 Advanced Programming Students (Fall 2026)
 
-- Student 1
-- Student 2
-- Student 3
+- Guangyu Qiu
+
+- Mo Zhou
+
+- Karen Ellis
 
 # PHS7045 Advanced Programming Instructors (Fall 2026)
-- [@tm-pham](https://github.com/tm-pham) Vietnamese-German researcher who lived 5(ish) different countries. I like rock climbing and dabble on the ukulele now and then. I make the best German pretzels in SLC.
+- [@tm-pham](https://github.com/tm-pham) Vietnamese-German researcher who lived in 5(ish) different countries. I like rock climbing and dabble on the ukulele now and then. I make the best German pretzels in SLC.
 
 
 # PHS7045 Advanced Programming Students (Fall 2024)
