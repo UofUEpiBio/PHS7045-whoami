@@ -27,7 +27,7 @@ username!
 
 - Guangyu Qiu
 
-- Mo Zhou
+- Mo Zhou (https://github.com/mzhou79) I'm a first year biostatistics student. I grew up in Beijing and moved to US for college. I speak Chinese, English, and Spanish. In my free time, I like to learn spanish and trade on stock market.
 
 - Karen Ellis
 
