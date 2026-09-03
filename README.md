@@ -23,6 +23,16 @@ Look for your Github username and add a link to your Github profile and somethin
 yourself (that you don't mind publicly sharing). Remember to only modify the line with your
 username!
 
+# PHS7045 Advanced Programming Students (Fall 2026)
+
+- Student 1
+- Student 2
+- Student 3
+
+# PHS7045 Advanced Programming Instructors (Fall 2026)
+- [@tm-pham](https://github.com/tm-pham) Vietnamese-German researcher who lived 5(ish) different countries. I like rock climbing and dabble on the ukulele now and then. I make the best German pretzels in SLC.
+
+
 # PHS7045 Advanced Programming Students (Fall 2024)
 
 - [@bohmanjulia](https://github.com/bohmanjulia) 2nd year biostatistics PhD student interested in mathematical modelling of nosocomial transmission and deep learning methods for risk prediction in cancer patients.
