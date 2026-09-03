@@ -29,7 +29,7 @@ username!
 
 - Mo Zhou
 
-- Karen Ellis
+- Karen Ellis: I am in the PHS program in the CTE track. I am excited for fall!
 
 # PHS7045 Advanced Programming Instructors (Fall 2026)
 - [@tm-pham](https://github.com/tm-pham) Vietnamese-German researcher who lived in 5(ish) different countries. I like rock climbing and dabble on the ukulele now and then. I make the best German pretzels in SLC.
