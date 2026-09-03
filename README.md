@@ -28,7 +28,7 @@ username!
 - Guangyu Qiu
   Hi everyone, I am Guangyu Qiu from Shanghai, China. I am in the Biostatistics division at PHS department. I love hiking (who doesn't) and playing Genshin Impact. 
 
-- Mo Zhou
+- Mo Zhou (https://github.com/mzhou79) I'm a first year biostatistics student. I grew up in Beijing and moved to US for college. I speak Chinese, English, and Spanish. In my free time, I like to learn spanish and trade on stock market.
 
 - Karen Ellis
 
