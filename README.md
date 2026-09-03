@@ -29,7 +29,7 @@ username!
 
 - Mo Zhou (https://github.com/mzhou79) I'm a first year biostatistics student. I grew up in Beijing and moved to US for college. I speak Chinese, English, and Spanish. In my free time, I like to learn spanish and trade on stock market.
 
-- Karen Ellis
+- Karen Ellis: I am in the PHS program in the CTE track. I am excited for fall!
 
 # PHS7045 Advanced Programming Instructors (Fall 2026)
 - [@tm-pham](https://github.com/tm-pham) Vietnamese-German researcher who lived in 5(ish) different countries. I like rock climbing and dabble on the ukulele now and then. I make the best German pretzels in SLC.
