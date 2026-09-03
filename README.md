@@ -32,6 +32,8 @@ username!
 
 - Karen Ellis: I am in the PHS program in the CTE track. I am excited for fall!
 
+- [**@gvegayon**](https://ggvy.cl) I am George, I love music (wanted to be a pro!) I still think knowing how to program is very important 😃 <img src="https://avatars.githubusercontent.com/u/893619?v=4" width="40px">
+
 # PHS7045 Advanced Programming Instructors (Fall 2026)
 - [@tm-pham](https://github.com/tm-pham) Vietnamese-German researcher who lived in 5(ish) different countries. I like rock climbing and dabble on the ukulele now and then. I make the best German pretzels in SLC.
 
