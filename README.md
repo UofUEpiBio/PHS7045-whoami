@@ -26,6 +26,7 @@ username!
 # PHS7045 Advanced Programming Students (Fall 2026)
 
 - Guangyu Qiu
+  Hi everyone, I am Guangyu Qiu from Shanghai, China. I am in the Biostatistics division at PHS department. I love hiking (who doesn't) and playing Genshin Impact. 
 
 - Mo Zhou
 
